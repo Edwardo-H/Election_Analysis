@@ -37,4 +37,6 @@ The analysis of the election shows that:
   - The percentage of votes from each county
   - The county with the highest turnout
   
+  Output to Terminal
   
+  <img width="234" alt="OutputToTerminal" src="https://user-images.githubusercontent.com/70344787/96182531-9be92b00-0f03-11eb-9fec-a0087ae8864b.PNG">
