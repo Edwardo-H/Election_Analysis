@@ -37,6 +37,10 @@ The analysis of the election shows that:
   - The percentage of votes from each county
   - The county with the highest turnout
   
+  ## Election Audit Results
+  ---
+  As evidenced by the screenshots exported to the terminal and to a text file, one can see that the additional requests have been addressed:
+  
   Output to Terminal
   
   <img width="234" alt="OutputToTerminal" src="https://user-images.githubusercontent.com/70344787/96182531-9be92b00-0f03-11eb-9fec-a0087ae8864b.PNG">
@@ -44,4 +48,10 @@ The analysis of the election shows that:
   Output to Text
   
   <img width="288" alt="OutputToText" src="https://user-images.githubusercontent.com/70344787/96182807-fc786800-0f03-11eb-808d-709438065cf8.PNG">
+  
+  ## Election Audit Summary
+  ---
+  The script used to produce this analysis was successful for achieving the results desired by the election commission. With some modifications, this script can be adapted for use in just about any election. Some examples of modifications necessary include:
+  - Modifying the row number (if necessary) used in the script that corresponds with the data file for the candidate name and/or county name to be summarized.
+  - Modifying the code to allow for source data (other than csv) to be analyzed.
   
