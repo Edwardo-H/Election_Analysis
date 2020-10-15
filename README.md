@@ -32,4 +32,9 @@ The analysis of the election shows that:
   
   ## Challenge Overview
   ---
+  The election commission has also requested additional data to complete the audit:
+  - The voter turnout for each county
+  - The percentage of votes from each county
+  - The county with the highest turnout
+  
   
