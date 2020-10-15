@@ -40,3 +40,8 @@ The analysis of the election shows that:
   Output to Terminal
   
   <img width="234" alt="OutputToTerminal" src="https://user-images.githubusercontent.com/70344787/96182531-9be92b00-0f03-11eb-9fec-a0087ae8864b.PNG">
+  
+  Output to Text
+  
+  <img width="288" alt="OutputToText" src="https://user-images.githubusercontent.com/70344787/96182807-fc786800-0f03-11eb-808d-709438065cf8.PNG">
+  
