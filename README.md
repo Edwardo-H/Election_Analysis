@@ -51,7 +51,7 @@ The analysis of the election shows that:
   
   ## Election Audit Summary
   ---
-  The script used to produce this analysis was successful for achieving the results desired by the election commission. With some modifications, this script can be adapted for use in just about any election. Some examples of modifications necessary include:
+  The script used to produce this analysis was successful for achieving the results desired by the election commission. With some modifications, this script can be adapted for use in just about any election. Some examples of modifications include:
   - Modifying the row number (if necessary) used in the script that corresponds with the data file for the candidate name and/or county name to be summarized.
   - Modifying the code to allow for source data (other than csv) to be analyzed.
   
